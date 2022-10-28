@@ -1,0 +1,9 @@
+*
+!/.idea/
+!.gitignore
+!*.cpp
+!*.c
+!*.h
+!*.hpp
+!CMakeLists.txt
+!README.md
